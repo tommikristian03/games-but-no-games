@@ -6,8 +6,6 @@ Games include Snake, Minesweeper, and Tunnel Flight. All games run entirely in t
 
 ## Development
 
-This project targets Java 11 and uses the RuneLite example-plugin development setup. Open it in IntelliJ IDEA and run the Gradle `run` task to start a development client. Follow RuneLite's [Using Jagex Accounts](https://github.com/runelite/runelite/wiki/Using-Jagex-Accounts) guide to log in.
+This project targets Java 11 and uses the RuneLite example-plugin development setup. 
 
-## Status
-
-Snake, Minesweeper, and Tunnel Flight are implemented. More mini-games may be added later.
+*AI used in the making of this plugin.
